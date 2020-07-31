@@ -27,11 +27,7 @@ def kesha_maker(array)
 end
 
 def find_a(letter)
- new_array = []
-  letter.find do |a|
-    letter == a 
-  end
-  new_array
+array.findall
 
 def sum_array(array)
  sum = 0 
