@@ -33,9 +33,9 @@ def find_a(letter)
   end
   new_array
 
-def sum_array(num)
+def sum_array(array)
  sum = 0 
- num.each do [i]
+ array.each do [num]
  sum += i
 end
 
