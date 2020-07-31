@@ -36,7 +36,7 @@ def find_a(letter)
 def sum_array(array)
  sum = 0 
  array.each do [num]
- sum += i
+ sum += num
 end
 
 def add_s(array)
